@@ -1,0 +1,4 @@
+http://zhaoxinmvc.duapp.com/ajax/mvc4-3/index.php
+ºóÌ¨ÃÜÂë£º654321
+    ÕËºÅ£ºzhaoxin
+http://localhost/ajax/mvc4-3/index.php?m=admin
