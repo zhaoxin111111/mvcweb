@@ -1,4 +1,4 @@
 http://zhaoxinmvc.duapp.com/ajax/mvc4-3/index.php
-��̨���룺654321
-    �˺ţ�zhaoxin
-http://localhost/ajax/mvc4-3/index.php?m=admin
+ºóÌ¨ÃÜÂë£º654321
+    ÕËºÅ£ºzhaoxin
+http://zhaoxinmvc.duapp.com/ajax/mvc4-3/index.php?m=admin
